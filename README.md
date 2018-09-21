@@ -1,2 +1,2 @@
 # hello-world
-first git test
+tak bude ta zmena nebo ne
